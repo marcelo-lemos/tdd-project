@@ -1,0 +1,9 @@
+1 - Escrever o teste funcional
+2 - Rodar o teste funcional e verificar se falha
+3 - Escrever o teste de unidade
+4 - Rodar o teste de unidade e verificar se falha
+5 - Escrever algum código da aplicação
+6 - Rodar o teste de unidade e repetir a partir da etapa 5 até passar
+7 - Refatorar o código escrito caso necessário, sempre utilizando os testes de unidade
+8 - Rodar o teste funcional e repetir a partir da etapa 3 até passar
+9 - Refatorar o código escrito caso necessário, sempre utilizando os testes de unidade e funcionais
